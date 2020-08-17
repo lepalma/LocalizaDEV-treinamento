@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>layout_compacto_de_auditoria_de_energia</fullName>
+    <fields>Name</fields>
+    <fields>Account__c</fields>
+    <fields>Annual_Energy_Usage_kWh__c</fields>
+    <fields>Average_Annual_Electric_Cost__c</fields>
+    <fields>Type_of_Installation__c</fields>
+    <label>layout compacto de auditoria de energia</label>
+</CompactLayout>
